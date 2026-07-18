@@ -1,8 +1,10 @@
 <div align="center">
 
----
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2EA44F&center=true&vCenter=true&width=500&lines=Carlos+%7C+Fala-Carlao;NOC+Operations;Automa%C3%A7%C3%B5es+%26+Infraestrutura;Redes+de+Computadores;Homelab+Self-hosted;Docker+%7C+Python+%7C+n8n)](https://usguri.com)
+
+**NOC Operations · Automação · Infraestrutura · Redes**
+
+🌐 [usguri.com](https://usguri.com)
 
 </div>
 
