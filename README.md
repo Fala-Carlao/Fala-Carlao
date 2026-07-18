@@ -1,10 +1,10 @@
 <div align="center">
 
-# Carlos (usguri)
+# Carlos (Fala-Carlao)
 
 **NOC Operations · Automação · Infraestrutura · Redes**
 
-[![Website](https://img.shields.io/badge/Website-usguri.com-2ea44f?style=for-the-badge&logo=googlech rome&logoColor=white)](https://usguri.com)
+🌐 [usguri.com](https://usguri.com)
 
 </div>
 
@@ -22,24 +22,17 @@ Minha filosofia: entender o sistema de ponta a ponta. Se algo pode ser automatiz
 
 ## Áreas de foco
 
-### 🔧 Infraestrutura & Automação
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+**🔧 Infraestrutura & Automação**
 
-### 📡 Redes & Sistemas
-![NOC](https://img.shields.io/badge/NOC_Operations-0D1117?style=for-the-badge)
-![FTTH](https://img.shields.io/badge/Fibra_%2F_FTTH-0D1117?style=for-the-badge)
-![Monitoramento](https://img.shields.io/badge/Monitoramento_de_Rede-0D1117?style=for-the-badge)
-![Self-hosted](https://img.shields.io/badge/Self--hosted-0D1117?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-### 💾 Stack dos projetos
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+**📡 Redes & Sistemas**
+
+![NOC](https://img.shields.io/badge/NOC%20Operations-222222?style=flat-square) ![FTTH](https://img.shields.io/badge/Fibra%20%2F%20FTTH-222222?style=flat-square) ![Monitoramento](https://img.shields.io/badge/Monitoramento%20de%20Rede-222222?style=flat-square) ![SelfHosted](https://img.shields.io/badge/Self--hosted-222222?style=flat-square)
+
+**💾 Stack dos projetos**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
@@ -47,9 +40,9 @@ Minha filosofia: entender o sistema de ponta a ponta. Se algo pode ser automatiz
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **[fluxocerto](https://github.com/usguri/fluxocerto)** | App de finanças pessoais PWA offline-first com sync, relatórios via WhatsApp e dois módulos de renda | Flask · PostgreSQL · PWA · n8n |
-| **[santuario-primal](https://github.com/usguri/santuario-primal)** | Marketplace completo para comunidade ARK no Discord — pagamentos, cupons e workflow de boss runs | FastAPI · discord.py · Stripe/PIX |
-| **[usguri-hub](https://github.com/usguri/usguri-hub)** | Ecossistema de bots Discord + dashboard web para comunidade gamer, consolidado em um único container | discord.py · FastAPI · Docker |
+| **[fluxocerto](https://github.com/Fala-Carlao/fluxocerto)** | App de finanças pessoais PWA offline-first com sync, relatórios via WhatsApp e dois módulos de renda | Flask · PostgreSQL · PWA · n8n |
+| **[santuario-primal](https://github.com/Fala-Carlao/santuario-primal)** | Marketplace completo para comunidade ARK no Discord — pagamentos, cupons e workflow de boss runs | FastAPI · discord.py · Stripe/PIX |
+| **[usguri-hub](https://github.com/Fala-Carlao/usguri-hub)** | Ecossistema de bots Discord + dashboard web para comunidade gamer, consolidado em um único container | discord.py · FastAPI · Docker |
 
 > Todos os projetos rodam em produção no homelab **Central Usguri** — Docker Compose, PostgreSQL, backups automatizados com rotação e acesso via Cloudflare Tunnel.
 
